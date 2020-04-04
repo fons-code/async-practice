@@ -1,0 +1,20 @@
+{
+  "name": "asincronismo-js",
+  "version": "1.0.0",
+  "description": "working with JS",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callbacks/index.js",
+    "callback-challenge":"node src/callbacks/challenge.js"
+  },
+  "keywords": [
+    "callback",
+    "promise",
+    "async"
+  ],
+  "author": "Alessandri Fonseca",
+  "license": "ISC",
+  "devDependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
